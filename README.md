@@ -4,6 +4,16 @@ I'm a Master’s student in Data Science & Business Analytics at ESSEC & Central
 
 ---
 
+#### 💼 DSBA Job Interview Database – Community Project
+A student-led database of job interview experiences for the MSc DSBA program.
+
+- Encourages contribution-based access to promote sharing and transparency.
+- Covers **data science, consulting, and finance** roles across regions.
+
+[🔗 GitHub Repo](https://github.com/piangpimc/dsba-job-db)
+
+---
+
 ### 🔬 Projects
 
 #### 🧠 Toxic Comment Classification – Kaggle Competition (2024)
