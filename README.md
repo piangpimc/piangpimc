@@ -6,6 +6,8 @@ I'm a Master’s student in Data Science & Business Analytics at ESSEC & Central
 
 ### 🔬 Projects
 
+---
+
 #### 💼 DSBA Job Interview Database – Community Project
 A student-led database of job interview experiences for the MSc DSBA program.
 
