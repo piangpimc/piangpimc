@@ -47,7 +47,6 @@ Forecasted theme park queue times to improve guest experience and operational ef
 
 [🔗 GitHub Repo](https://github.com/RuxiHE/Hackathon-DSBA25-Group4)
 
----
 
 #### 💼 DSBA Job Interview Database – Community Project
 A student-led database of job interview experiences for the MSc DSBA program.
