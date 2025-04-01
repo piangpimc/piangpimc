@@ -8,7 +8,6 @@ I'm a Master’s student in Data Science & Business Analytics at ESSEC & Central
 A student-led database of job interview experiences for the MSc DSBA program.
 
 - Encourages contribution-based access to promote sharing and transparency.
-- Covers **data science, consulting, and finance** roles across regions.
 
 [🔗 GitHub Repo](https://github.com/piangpimc/dsba-job-db)
 
@@ -47,11 +46,3 @@ Forecasted theme park queue times to improve guest experience and operational ef
 
 [🔗 GitHub Repo](https://github.com/RuxiHE/Hackathon-DSBA25-Group4)
 
-
-#### 💼 DSBA Job Interview Database – Community Project
-A student-led database of job interview experiences for the MSc DSBA program.
-
-- Encourages contribution-based access to promote sharing and transparency.
-- Covers **data science, consulting, and finance** roles across regions.
-
-[🔗 GitHub Repo](https://github.com/piangpimc/dsba-job-db)
