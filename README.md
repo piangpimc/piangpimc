@@ -1,6 +1,6 @@
 ## 👋 Hi, I'm Piangpim Chancharunee
 
-I'm a Master’s student in Data Science & Business Analytics at ESSEC & CentraleSupélec, passionate about applying data to solve real-world problems — from ethical AI to fashion sustainability and operations optimization.
+I'm a Master’s student in Data Science & Business Analytics at ESSEC & CentraleSupélec, passionate about applying data to solve real-world problems, from ethical AI to fashion sustainability and operations optimization.
 
 ---
 
